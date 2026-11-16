@@ -1,9 +1,9 @@
-# Giveaway Card Design – QR Code Placement
+Giveaway Card Design – QR Code Placement
 
 ## Project Overview
 An original concept portfolio project featuring a professional two-sided promotional giveaway postcard.
 
-## Design Features
+Design Features
 - 5.5 × 8.5 inch postcard format
 - Ivory, sage green, deep plum, ochre, and sand color palette
 - Minimal front-side design
@@ -12,7 +12,7 @@ An original concept portfolio project featuring a professional two-sided promoti
 - Editable SVG source files
 - Print-ready PDF layout
 
-## Deliverables
+Deliverables
 - Print-ready PDF
 - Front-side SVG
 - Back-side SVG
@@ -20,10 +20,10 @@ An original concept portfolio project featuring a professional two-sided promoti
 - Portfolio presentation board
 - Production notes
 
-## Project Type
+Project Type
 Original Concept Portfolio Project
 
-## Important Note
+ Important Note
 The QR code is a non-scannable placeholder. A real destination QR code must be inserted before commercial printing.
 
 ## Purpose
